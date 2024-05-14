@@ -15,7 +15,11 @@ function Home() {
           </p>
 
           <Link to="/sobre" className={`${styles.btn} ${styles.btn_red}`}>
+<<<<<<< HEAD
            Compre aqui!
+=======
+           Compre aqui
+>>>>>>> 5b03a8d52eabd93616d767a4c817d542ebfea81f
           </Link>
         </div>
         <figure>

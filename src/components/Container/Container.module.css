@@ -1,6 +1,10 @@
 .container {
   width: 100%;
   height: 10vh;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5b03a8d52eabd93616d767a4c817d542ebfea81f
   display: flex;
   flex-direction: column;
   align-items: center;

@@ -66,7 +66,11 @@ export default function Teste() {
             </button>
           </div>
 
+<<<<<<< HEAD
      
+=======
+          <br></br> 
+>>>>>>> 5b03a8d52eabd93616d767a4c817d542ebfea81f
 
 
           <div id='container-ingresso'>

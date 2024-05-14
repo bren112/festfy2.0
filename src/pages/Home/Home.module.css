@@ -76,14 +76,21 @@
     height: 250px;
   }
   .home {
+<<<<<<< HEAD
     margin-top: -5pc;
+=======
+>>>>>>> 5b03a8d52eabd93616d767a4c817d542ebfea81f
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
   .home p {
+<<<<<<< HEAD
     font-size: 2.5rem;
+=======
+    font-size: 1.5rem;
+>>>>>>> 5b03a8d52eabd93616d767a4c817d542ebfea81f
     margin-bottom: 1rem;
   }
 

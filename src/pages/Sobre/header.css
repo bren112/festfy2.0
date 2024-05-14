@@ -76,6 +76,7 @@
     color: var(--primary);
 
     
+<<<<<<< HEAD
  }
 
  @media screen and (max-width: 768px) {
@@ -112,4 +113,6 @@
     position: relative;
     top: -9pc;
 }
+=======
+>>>>>>> 5b03a8d52eabd93616d767a4c817d542ebfea81f
  }

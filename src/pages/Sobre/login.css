@@ -20,6 +20,7 @@
     display: flex;
     justify-content: center;
     margin-top: 1pc;
+<<<<<<< HEAD
 }
 
 @media screen and (max-width: 768px) {
@@ -37,4 +38,6 @@
         color: var(--red);
     }
 
+=======
+>>>>>>> 5b03a8d52eabd93616d767a4c817d542ebfea81f
 }
