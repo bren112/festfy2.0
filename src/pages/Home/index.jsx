@@ -15,7 +15,7 @@ function Home() {
           </p>
 
           <Link to="/sobre" className={`${styles.btn} ${styles.btn_red}`}>
-           Compre aqui
+           Compre aqui!
           </Link>
         </div>
         <figure>
